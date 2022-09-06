@@ -4,7 +4,7 @@ I am an enthusiastic Dominican software developer who wants to achieve his goals
 
 Skills: JavaScript / Node / React / SQL / MySQL / Typescript / C#
 
-- 🔭 I’m currently working on [this](https://github.com/SDLuis/JobsPoster) project.
+- 🔭 I’m currently working on [this](https://luisrincon.netlify.app/) project.
 - 🌱 I’m currently learning TypeScript, React JS, and Next JS.
 - 📫 Reach me at Luistejeda0011@gmail.com
 
