@@ -3,7 +3,7 @@ I am Junior JavaScript Developer
 I am an enthusiastic Dominican software developer who wants to achieve his goals and expand, I am a JavaScript developer but open to new things. learn and meet new limits.
 
 Skills: JavaScript / Node / React / Astro / SQL / MySQL / Typescript / C#
-- 🔭 You can know more about me, take a look at my [portfolio](https://luisrincon.netlify.app/)
+- 👨🏻‍💻 You can know more about me, take a look at my [portfolio](https://luisrincon.netlify.app/)
 - 🔭 I’m currently working on [this](https://github.com/SDLuis/Portfolio) project.
 - 🌱 I’m currently learning TypeScript, React JS, and Next JS.
 - 📫 Reach me at Luistejeda0011@gmail.com
