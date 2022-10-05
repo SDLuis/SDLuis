@@ -5,7 +5,7 @@ I am an enthusiastic Dominican software developer who wants to achieve his goals
 Skills: JavaScript / Node / React / Astro / SQL / MySQL / Typescript / C#
 - 👨🏻‍💻 You can know more about me, take a look at my [portfolio](https://luisrincon.netlify.app/)
 - 🔭 I’m currently working on [this](https://github.com/SDLuis/Portfolio) project.
-- 🌱 I’m currently learning TypeScript, React JS, and Next JS.
+- 🌱 I’m currently learning Astro, TailwindCSS and Playwright Test E2E.
 - 📫 Reach me at Luistejeda0011@gmail.com
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SDLuis&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
