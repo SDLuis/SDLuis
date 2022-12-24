@@ -2,9 +2,9 @@ Hi there 👋, my name is Luis
 I am Junior JavaScript Developer
 I am an enthusiastic Dominican software developer who wants to achieve his goals and expand, I am a JavaScript developer but open to new things. learn and meet new limits.
 
-Skills: JavaScript / Node / React / Astro / SQL / MySQL / Typescript / C#
+Skills: JavaScript / Node JS / React JS / Next JS / Astro / SQL / MySQL / Typescript / C#
 - 👨🏻‍💻 You can know more about me, take a look at my [portfolio](https://luisrincon.netlify.app/)
-- 🔭 I’m currently working on [this](https://github.com/SDLuis/ourspace-api) project.
+- 🔭 I’m currently working on [this](https://github.com/SDLuis/ourspace-website) project.
 - 🌱 I’m currently learning Astro, TailwindCSS and Playwright Test E2E.
 - 📫 Reach me at Luistejeda0011@gmail.com
 
